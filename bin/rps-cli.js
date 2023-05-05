@@ -1,7 +1,6 @@
 #!/usr/bin/env node
-
-import { rps } from 'node-rpsls';
-import minimist from "minimist";
+import { rps } from 'node-rpsls'
+import minimist from 'minimist'
 
 const args = minimist(process.argv.slice(2));
 
@@ -22,6 +21,7 @@ try {
     ruleMessage()
     process.exit(0)
 }
+
 
 function helpMessage() {
     console.log('Usage: node-rps [SHOT]\nPlay Rock Paper Scissors (RPS)\n\n',
