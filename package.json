@@ -1,7 +1,7 @@
 {
   "name": "node-rpsls",
   "version": "1.0.0",
-  "description": "rock_paper_scissors",
+  "description": "a03-azaria-p",
   "main": "./lib/rspsls.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a03-azaria-p/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a03-azaria-p#readme"
+  "homepage": "https://github.com/comp426-2023-spring/a03-azaria-p#readme",
   "dependencies": {
     "minimist": "^1.2.8",
     "node-rpsls": "^1.0.0"
